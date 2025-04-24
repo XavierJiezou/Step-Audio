@@ -12,7 +12,7 @@ conda activate step-audio
 pip install -r requirements.txt
 ```
 
-## Download Models
+## Download
 
 ```shell
 python download-modelscope.py
